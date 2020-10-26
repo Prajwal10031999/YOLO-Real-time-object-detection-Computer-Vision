@@ -10,4 +10,4 @@ Download the yolov3.weights from ths link:
 https://drive.google.com/file/d/1ftocWWDGEU1TlNlYUt99mIMTtW2D3YMW/view?usp=sharing
 
 
-![Screenshot](walking.mp4)
+![Screenshot](output.png)
